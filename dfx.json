@@ -20,7 +20,7 @@
   },
   "defaults": {
     "build": {
-      "packtool": ""
+      "packtool": "vessel sources"
     }
   },
   "dfx": "0.6.4",
