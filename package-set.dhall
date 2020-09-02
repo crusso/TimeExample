@@ -24,7 +24,7 @@ let
   overrides =
     [
          { name = "base"
-         , version = "master"
+         , version = "441402a7a3fcdaac3e4d59b3b1d5c205608c6c1b"
          , repo = "https://github.com/dfinity/motoko-base"
          , dependencies = [] : List Text
          }     
